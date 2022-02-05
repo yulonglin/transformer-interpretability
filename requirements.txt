@@ -1,3 +1,4 @@
 einops
 transformers
 torch
+matplotlib
